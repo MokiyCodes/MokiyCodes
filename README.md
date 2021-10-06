@@ -1,9 +1,57 @@
+<!--
+### Hi there 👋
+I'm 0J3, and I do code and sh\*t i guess?
+
+- 🌱 I’m currently learning how to somehow fit my addiction for anime in here and confess that I'm a weeb. Oh wait I just did...
+- 💬 Ask me about Node.JS I guess? Well that or anime
+- 📫 How to reach me: 0J3#0001 on Discord or gh.contactme@wafflepowered.com
+- 😄 Pronouns: Preferably either they/them, or she/her, but I don't care that much
+- ⚡ Fun fact: I have been coding since I was 5, joined github on my first account in 2016, and have a total of 629 local repos at the time of writing (and more non-local ones here). These repos count a total of 7GB of files (exclusive dependencies)
+- ⚡ Fun fact 2: [https://github.com/0J3-2/](https://github.com/0J3-2/?ref=0J3) is where I put the rest of my things that don't really belong here, ie the [Aurora](https://github.com/0J3-2/Aurora) theme that I now maintain.
+
+
+<!--
+**0J3/0J3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+### Hello
+And welcome to ~~your mother's basement~~ my github about thingy!
+
+
+- 🌱 I’m currently learning WPF
+- 💞️ I’m looking to collaborate on Disukabā, an immersive game engine im working on
+- 📫 Contact me on Discord via `Mokiy#0001`
+- I am a demigirl (born male), a weeb, a furry, a [human](//plrv3.nora.lgbt/), pansexual, and ofc, a programmer.
+- I write shit primarily in *typescript* (a superset of javascript if you didn't know that).<br/>
+- My pronouns are it/itself :)<br/>
+You can contact me on **[Discord](https://discord.com/users/596425713347723269)** and [Twitter](https://twitter.com/0J3_3) (although i dont check twitter that often).
+
+<hr/>
+
+ok free statistics:
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MokiyCodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MokiyCodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&count_private=true" />
+
+<!--
 👋 Hi, I’m @MokiyCodes (Previously [@0J3](https://github.com/0J3))
 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning WPF
 - 💞️ I’m looking to collaborate on Disukabā, an immersive game engine im working on
 - 📫 Contact me on Discord via `Mokiy#0001`
+-->
 
 <!---
 MokiyCodes/MokiyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

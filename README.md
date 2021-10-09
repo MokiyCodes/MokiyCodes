@@ -35,7 +35,7 @@ And welcome to ~~your mother's basement~~ my github about thingy!
 - I am a demigirl (born male), a weeb, a furry, a [human](//plrv3.nora.lgbt/), pansexual, and ofc, a programmer.
 - I write shit primarily in *typescript* (a superset of javascript if you didn't know that).<br/>
 - My pronouns are it/itself :)<br/>
-You can contact me on **[Discord](https://discord.com/users/596425713347723269)** and [Twitter](https://twitter.com/0J3_3) (although i dont check twitter that often).
+You can contact me on **[Discord](https://nora.lgbt/goto/discord:/users/596425713347723269)** (Mokiy#0001) and [Twitter](https://twitter.com/0J3_3) (although i dont check twitter that often).
 
 <hr/>
 

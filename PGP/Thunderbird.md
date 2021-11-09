@@ -31,6 +31,23 @@ The below points describe how to import someone else's public key into your thun
 You need to do this once per thunderbird installation, per person, to be able to send encrypted emails to that person.<br/>
 Requirements:
 - An existing Private PGP Key (see [Setting Up Thunderbird](#setting-up-thunderbird))
-- The person who you're trying to send emails to's public PGP Key (as an example, [my GPG key](https://raw.githubusercontent.com/MokiyCodes/MokiyCodes/main/Key)
+- The person who you're trying to send emails to's public PGP Key (as an example, [my GPG key](https://mokiycodes.github.io/MokiyCodes/Key.txt))
+- The person's key's Fingerprint (Optional, but strongly encouraged - as an example, [my GPG key's Fingerprint](https://mokiycodes.github.io/MokiyCodes/Fingerprint.txt))
 
-(i will finish this soon)
+1. In the [OpenPGP Key Manager](#opening-the-thunderbird-openpgp-key-manager), select `File`
+2. Select `Import Public Key(s) From File`
+3. Select the key(s) to import
+4. Check that the `Fingerprint` (shown below the User's Name and Email) is identical to the Fingerprint of the user who's key you're importing. You can ask them to send you their fingerprint.
+5. Select `Accepted (unverified)`
+6. Click `OK`
+
+### Finding your Key's Fingerprint
+Method 1:
+1. In the [OpenPGP Key Manager](#opening-the-thunderbird-openpgp-key-manager), find your GPG Key
+2. Right click it
+3. Select `Copy`, then `Fingerprint`
+
+Method 2:
+1. In the [OpenPGP Key Manager](#opening-the-thunderbird-openpgp-key-manager), find your GPG Key
+2. Right click it
+3. Select `Key Propreties`

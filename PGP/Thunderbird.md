@@ -29,4 +29,5 @@ You need to do this once per thunderbird installation, per person, to be able to
 Requirements:
 - An existing Private PGP Key (see [Setting Up Thunderbird](#setting-up-thunderbird))
 - The person who you're trying to send emails to's public PGP Key (as an example, [my GPG key](https://raw.githubusercontent.com/MokiyCodes/MokiyCodes/main/Key)
+
 (i will finish this soon)

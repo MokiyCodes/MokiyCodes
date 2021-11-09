@@ -25,6 +25,7 @@ You only need to do this once per Thunderbird Installation.
 4. Make sure `Treat this key as a Personal Key` is enabled
 5. Click `Continue`
 6. If you have a Passphrase on the key, input it into the prompt
+
 ### Adding someone else's Public Key to Thunderbird
 The below points describe how to import someone else's public key into your thunderbird installation.<br/>
 You need to do this once per thunderbird installation, per person, to be able to send encrypted emails to that person.<br/>

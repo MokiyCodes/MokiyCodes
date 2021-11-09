@@ -1,4 +1,4 @@
-#### [MokiyCodes](https://github.com/MokiyCodes/MokiyCodes) / [PGP](https://github.com/MokiyCodes/MokiyCodes/blob/main/PGP) / [Thunderbird](https://github.com/MokiyCodes/MokiyCodes/blob/main/Thunderbird)
+#### [MokiyCodes](https://github.com/MokiyCodes/MokiyCodes) / [PGP](https://github.com/MokiyCodes/MokiyCodes/blob/main/PGP) / [Thunderbird](https://github.com/MokiyCodes/MokiyCodes/blob/main/PGP/Thunderbird.md)
 The below describes how to use `PGP` with Thunderbird, to send and recieve encrypted emails.
 ## Setting Up Thunderbird
 The below `3` sections describe how to initially setup Thunderbird's OpenPGP.<br/>

@@ -8,6 +8,7 @@ You only need to do this once per Thunderbird Installation.
 2. Press `F10`
 3. Go to `Tools`
 4. Select `OpenPGP Key Manager`
+
 ### Generating a new PGP Key 
 (If you have an existing PGP key, see [Importing an existing Key](#importing-an-existing-key) instead)<br/>
 1. In the [OpenPGP Key Manager](#opening-the-thunderbird-openpgp-key-manager), select Generate
@@ -15,6 +16,7 @@ You only need to do this once per Thunderbird Installation.
 3. Set the Expiration date, or select `Key does not expire`
 4. Set the Key size to 4096
 5. Click `Generate key`
+
 ### Importing an existing Key
 (If you do not have an existing PGP key, see [Generating a new Key](#generating-a-new-key) instead)
 1. In the [OpenPGP Key Manager](#opening-the-thunderbird-openpgp-key-manager), select `File`

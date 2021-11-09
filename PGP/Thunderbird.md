@@ -1,4 +1,10 @@
 #### [MokiyCodes](https://mokiycodes.github.io/MokiyCodes) / [PGP](https://mokiycodes.github.io/MokiyCodes/PGP/) / [Thunderbird](https://mokiycodes.github.io/MokiyCodes/PGP/Thunderbird)
+> #### ⚠️ This tutorial is incomplete!
+> Certain sections might be missing, and it might not be fully accurate!
+> #### ℹ️ This will not work on older versions of Thunderbird!
+> This tutorial **will not** work on Thunderbird Versions before Thunderbird 78.<br/>
+> It was made for Thunderbird 91, and might be slightly different on other versions of Thunderbird.
+
 The below describes how to use `PGP` with Thunderbird, to send and recieve encrypted emails.
 ## Setting Up Thunderbird
 The below `3` sections describe how to initially setup Thunderbird's OpenPGP.<br/>

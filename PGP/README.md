@@ -3,4 +3,4 @@ This file contains links and/or explanations for various tutorials on how to use
 
 | Mail Client | How-to                                                                                    |
 | ----------- | ----------------------------------------------------------------------------------------- |
-| Thunderbird | [/PGP/Thunderbird](https://github.com/MokiyCodes/MokiyCodes/blob/main/PGP/Thunderbird.md) |
+| Thunderbird | [/PGP/Thunderbird](https://mokiycodes.github.io/MokiyCodes/PGP/Thunderbird)               |

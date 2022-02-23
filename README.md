@@ -43,8 +43,8 @@ snake eating my contributions<br/>
 
 free statistics:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MokiyCodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MokiyCodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MokiyCodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MokiyCodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" />
 
 <!--
 👋 Hi, I’m @MokiyCodes (Previously [@0J3](https://github.com/0J3))

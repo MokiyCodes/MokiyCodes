@@ -1,0 +1,78 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+
+  "schedule": [
+    "after 1pm every weekday",
+    "before 6am every weekday",
+    "every weekend"
+  ],
+
+  "extends": [
+    "config:base",
+    ":followTag(typescript, next)",
+    ":pinOnlyDevDependencies",
+    "packages:eslint",
+    "group:nodeJs",
+    "group:codemirror",
+    "group:socketio",
+    "group:postcss",
+    "group:kubernetes",
+    "group:googleapis",
+    "group:linters",
+    "group:jsUnitTestNonMajor",
+    "group:electron-forgeMonorepo",
+    "group:typescript-eslintMonorepo",
+    "group:angularjsMonorepo",
+    "group:babelMonorepo",
+    "group:braveMonorepo",
+    "group:commitlintMonorepo",
+    "group:docusaurusMonorepo",
+    "group:dotnetMonorepo",
+    "group:emojibaseMonorepo",
+    "group:formatjsMonorepo",
+    "group:lodashMonorepo",
+    "group:prismaMonorepo",
+    "group:reactMonorepo",
+    "group:react-routerMonorepo",
+    "group:sentry-dotnetMonorepo",
+    "group:sentry-javascriptMonorepo",
+    "group:parcelMonorepo",
+    ":automergePatch",
+    ":automergeLinters",
+    ":automergeRequireAllStatusChecks",
+    ":semanticCommits",
+    ":semanticCommitTypeAll(chore)",
+    ":enableVulnerabilityAlerts"
+  ],
+  "branchPrefix": "renovate-",
+  "prConcurrentLimit": 15,
+  "prHourlyLimit": 10,
+  "npm": {
+    "rangeStrategy": "bump"
+  },
+  "lockFileMaintenance": {
+    "enabled": true,
+    "extends": ["schedule:daily"]
+  },
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["*"],
+      "matchUpdateTypes": ["patch"],
+      "groupName": "all patch dependencies",
+      "groupSlug": "all-patch"
+    },
+    {
+      "matchManagers": ["npm"],
+      "matchPackageNames": ["@types/node"],
+      "versioning": "node"
+    },
+    {
+      "groupName": "definitelyTyped",
+      "matchPackagePrefixes": ["@types/"]
+    },
+    {
+      "groupName": "Font Awesome",
+      "matchPackagePrefixes": ["@fortawesome/"]
+    }
+  ]
+}

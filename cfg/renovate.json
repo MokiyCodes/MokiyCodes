@@ -42,6 +42,7 @@
     ":automergeRequireAllStatusChecks",
     ":semanticCommits",
     ":semanticCommitTypeAll(chore)",
+    ":semanticCommitScope(dep)",
     ":enableVulnerabilityAlerts"
   ],
   "branchPrefix": "renovate-",

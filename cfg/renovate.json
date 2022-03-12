@@ -9,7 +9,7 @@
 
   "extends": [
     "config:base",
-    ":followTag(typescript, next)",
+    ":followTag(typescript, latest)",
     ":pinOnlyDevDependencies",
     "packages:eslint",
     "group:nodeJs",

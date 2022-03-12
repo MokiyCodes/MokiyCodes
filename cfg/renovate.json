@@ -46,8 +46,8 @@
     ":enableVulnerabilityAlerts"
   ],
   "branchPrefix": "renovate-",
-  "prConcurrentLimit": 15,
-  "prHourlyLimit": 10,
+  "prConcurrentLimit": 5,
+  "prHourlyLimit": 2,
   "npm": {
     "rangeStrategy": "bump"
   },

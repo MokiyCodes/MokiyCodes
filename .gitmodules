@@ -1,0 +1,6 @@
+[submodule "cfg/eslint"]
+	path = cfg/eslint
+	url = git@github.com:MokiyCodes/eslint-config.git
+[submodule "cfg/eslint.base"]
+	path = cfg/eslint.base
+	url = git@github.com:MokiyCodes/eslint-config-preset.git

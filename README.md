@@ -43,7 +43,7 @@ snake eating my contributions<br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MokiyCodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&include_all_commits=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MokiyCodes&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" />
-<img align="right" src="https://lanyard.mokiy.cc/api/596425713347723269?bg=linear-gradient(45deg,%231a1b27,%2333354d)&border=1px%20solid%20%23111111&width=412&height=220&idleMessage=My%20RPC%20is%20disabled." />
+<img align="center" src="https://lanyard.mokiy.cc/api/596425713347723269?bg=linear-gradient(45deg,%231a1b27,%2333354d)&border=1px%20solid%20%23111111&width=412&height=220&idleMessage=My%20RPC%20is%20disabled." />
 
 <!--
 👋 Hi, I’m @MokiyCodes (Previously [@0J3](https://github.com/0J3))

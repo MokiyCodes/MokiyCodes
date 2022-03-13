@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://user-images.githubusercontent.com/92001109/158058431-a9d8d1cf-ae10-49cc-b87a-20cc1eca61d0.png" style="border-radius:5px" />
 
 ### Hello
 And welcome to ~~your mother's basement~~ my github about thingy!

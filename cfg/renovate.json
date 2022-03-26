@@ -8,7 +8,6 @@
   "extends": [
     "config:base",
     ":followTag(typescript, latest)",
-    ":pinOnlyDevDependencies",
     "packages:eslint",
     "group:nodeJs",
     "group:codemirror",
@@ -41,8 +40,7 @@
     ":semanticCommits",
     ":semanticCommitTypeAll(chore)",
     ":semanticCommitScope(deps)",
-    ":enableVulnerabilityAlerts",
-    ":pinAllExceptPeerDependencies"
+    ":enableVulnerabilityAlerts"
   ],
   "branchPrefix": "renovate-",
   "prConcurrentLimit": 5,

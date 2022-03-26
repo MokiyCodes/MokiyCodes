@@ -41,7 +41,8 @@
     ":semanticCommits",
     ":semanticCommitTypeAll(chore)",
     ":semanticCommitScope(deps)",
-    ":enableVulnerabilityAlerts"
+    ":enableVulnerabilityAlerts",
+    ":pinAllExceptPeerDependencies"
   ],
   "branchPrefix": "renovate-",
   "prConcurrentLimit": 5,

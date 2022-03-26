@@ -1,29 +1,5 @@
-<!--
-### Hi there 👋
-I'm 0J3, and I do code and sh\*t i guess?
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-- 🌱 I’m currently learning how to somehow fit my addiction for anime in here and confess that I'm a weeb. Oh wait I just did...
-- 💬 Ask me about Node.JS I guess? Well that or anime
-- 📫 How to reach me: 0J3#0001 on Discord or gh.contactme@wafflepowered.com
-- 😄 Pronouns: Preferably either they/them, or she/her, but I don't care that much
-- ⚡ Fun fact: I have been coding since I was 5, joined github on my first account in 2016, and have a total of 629 local repos at the time of writing (and more non-local ones here). These repos count a total of 7GB of files (exclusive dependencies)
-- ⚡ Fun fact 2: [https://github.com/0J3-2/](https://github.com/0J3-2/?ref=0J3) is where I put the rest of my things that don't really belong here, ie the [Aurora](https://github.com/0J3-2/Aurora) theme that I now maintain.
-
-
-<!--
-**0J3/0J3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://user-images.githubusercontent.com/92001109/158058431-a9d8d1cf-ae10-49cc-b87a-20cc1eca61d0.png" style="border-radius:5px" />
 
 ### Hello
